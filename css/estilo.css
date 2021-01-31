@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 15px;
+	border-radius:0 20px;
+}
+
+.ingreso-dato {
+	background-color: rgb(238, 231, 139);
+	border-radius: 20px;
+	box-sizing: border-box;
+	clear: both;
+	margin: 10px auto;
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+.impuesto-iva, .monto-con-iva {
+	background-color: rgb(166, 212, 80);
+	border-radius: 20px;
+	box-sizing: border-box;
+	float: left;
+	height: 40vh;
+	margin: 2% 5%;
+	text-align: center;
+	width: 80vw;
+	padding: 0 30px;
+}
+.monto {
+	background-color: rgb(233, 227, 193);
+	border-radius: 20px;
+	box-sizing: border-box;
+	float: left;
+	font-size: 20px;
+	height: 16vh;
+	margin: 1% 30%;
+	padding: 30px;
+	text-align: center;
+	width: 30vw;
+}
+
+
+
+
