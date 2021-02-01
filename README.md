@@ -18,7 +18,7 @@ _This Project only has one master branch, it was a small project so it did not n
 
 ## Demo 📦
 _If you want to see how this project was, you can do it from:
-:arrow_right: https://eugenia1984.github.io/fourth-exercise-with-JS-functions-and-events
+:arrow_right:  https://eugenia1984.github.io/Fourth-Exercise-With-JS-Functions-and-Events/.
  
 ## Please: 🎁
 
@@ -50,7 +50,7 @@ _Este Proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo 
 
 ## Demo 📦
 _Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-: arrow_right: https://eugenia1984.github.io/fourth-exercise-with-JS-functions-and-events
+: arrow_right:  https://eugenia1984.github.io/Fourth-Exercise-With-JS-Functions-and-Events/.
  
 ## Por favor: 🎁
 
