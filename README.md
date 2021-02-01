@@ -1,6 +1,7 @@
-_ENGLISH_
+ENGLISH
 
-#Fourth Exercise With JS Functions and Events
+##Fourth Exercise With JS Functions and Events
+
 ## What I did 🚀
 
 1 Declare a function that ask the user to enter a number <br>
@@ -31,7 +32,7 @@ I appreciate your interest in this Project <br/>
 ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta) 
 ---
 
-_ESPAÑOL_
+ESPAÑOL
 
 ## Lo que hice 🚀
 
