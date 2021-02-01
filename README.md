@@ -3,10 +3,10 @@ _ENGLISH_
 #Fourth Exercise With JS Functions and Events
 ## What I did 🚀
 
-_1 Declare a function that ask the user to enter a number_
-_2 I calculate the VAT of 21% of the number entered_
-_3 I show on screen the amount of the VAT and the total value with VAT included_
-_4 The function must be executed from the CALCULATE VAT button_
+1 Declare a function that ask the user to enter a number <br>
+2 I calculate the VAT of 21% of the number entered <br>
+3 I show on screen the amount of the VAT and the total value with VAT included <br>
+4 The function must be executed from the CALCULATE VAT button
 
 ## Content 🚀
 
@@ -35,10 +35,10 @@ _ESPAÑOL_
 
 ## Lo que hice 🚀
 
-_1 Declara una función que solicita al usuario que ingrese un número_
-_2 Calculo el IVA del 21% del número ingresado_
-_3 Muestro en pantalla el importe del IVA y el valor total con IVA incluido_
-_4 La función debe ejecutarse desde el botón CALCULAR IVA_
+1 Declara una función que solicita al usuario que ingrese un número <br>
+2 Calculo el IVA del 21% del número ingresado <br>
+3 Muestro en pantalla el importe del IVA y el valor total con IVA incluido <br>
+4 La función debe ejecutarse desde el botón CALCULAR IVA
 
 ## Contenido 🚀
 
