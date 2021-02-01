@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Evaluación 6</title>
+    <!--Google Fonts:  Roboto-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <!--Mi estilo css-->
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+
+	<header>
+        <h1>Ejercicio práctico de Módulo 2: Unidad 2</h1>
+    </header>
+
+    <section class="ingreso-dato">
+        <h2>Favor ingresar el monto del artículo, para calcular su iva y su precio de venta con iva incluido.</h2>
+        <form >
+            <label> Ingrese el monto: <input type="text" id="numero" name="numero" value=""> </label>
+            <input type="button" onclick="iva()" name="calcularIva" value="Calcular IVA">
+        </form>  
+    </section>
+    <!--Calculo el IVA y lo muestro-->
+	<section class="impuesto-iva">
+        <h3>El impuesto IVA es de: </h3>
+        <section class="monto"></section>
+    </section>
+    
+    <!-- Calculo el precio con IVA y lo muestro-->
+    <section class="monto-con-iva">
+        <h3>El monto ingresado con el impuesto IVA es de:</h3>
+        <section class="monto"></section>
+    </section>
+
+    <!--link a mi archivo JavaScript-->
+    <script type="text/javascript" src="js/funciones_evaluacion6_costa.js"></script>
+</body>
+</html>
